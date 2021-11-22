@@ -17,3 +17,9 @@ http://blog.miguelgrinberg.com/post/video-streaming-with-flask
 2. Run "python manage.py runserver".
 3. Open browser http://127.0.0.1:8000/
 4. URL: http://127.0.0.1:8000/monitor/
+
+
+### Teams
+1.jawahar
+2.jai
+3.purusothaman
