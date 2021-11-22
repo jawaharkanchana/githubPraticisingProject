@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     "obj_detection",
+    "new line",
 ]
 
 MIDDLEWARE = [
