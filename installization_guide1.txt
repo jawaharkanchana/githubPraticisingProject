@@ -1,3 +1,4 @@
 step 1: Go To URL
 step 2: Go To clone
 step 3: download page
+step 4: Open installer
